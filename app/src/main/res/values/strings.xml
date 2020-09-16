@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="value_celsius" translatable="false">请输入摄氏度</string>
+    <string name="celsius_to_fahren" translatable="false">转换为华氏温度</string>
+    <string name="resulttext" translatable="false">结果为：</string>
+</resources>
